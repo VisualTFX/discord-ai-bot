@@ -1,4 +1,4 @@
-# made by TFX | @visualtfx on all platforms
+# Made by TFX | @visualtfx on all platforms
 # this bot contains upload analysation, image generation, and AI ability
 
 import discord
